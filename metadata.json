@@ -1,0 +1,8 @@
+{
+  "name": "CallOraX",
+  "description": "CallOraX is a smart dialer and caller ID app with spam protection, dual SIM management, community alerts, and secure cloud integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

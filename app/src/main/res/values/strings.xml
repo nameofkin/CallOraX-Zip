@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CallOraX</string>
+    <string name="app_tagline">Your Privacy</string>
+    <string name="subtitle_tagline">Know Who\'s Calling • Connect Smarter • Stay Safe</string>
+    <string name="google_app_id" translatable="false">1:536956758732:android:563462947190d7e6</string>
+    <string name="gcm_defaultSenderId" translatable="false">536956758732</string>
+    <string name="project_id" translatable="false">callorax-smartdialer</string>
+</resources>
